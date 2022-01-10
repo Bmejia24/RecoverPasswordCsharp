@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4a5f88d-0c1e-430e-a7cb-e51b4ed2cfac": {
+      "ProjectGuid": "f4a5f88d-0c1e-430e-a7cb-e51b4ed2cfac",
+      "DisplayName": "Recover Password",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
